@@ -20,7 +20,8 @@ export default defineConfig({
     rollupOptions: {
       external: ['app/data/amarna.md'],
     }
-  }
+  },
+  base: "/ane-docs"
   //coverage: {
   //  exclude: ['**/*.md']
   //}
