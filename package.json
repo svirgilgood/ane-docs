@@ -2,7 +2,7 @@
   "name": "ane-docs",
   "private": true,
   "type": "module",
-  "homepage": "svirgilgood.github.io/ane-docs",
+  "homepage": "https://svirgilgood.github.io/ane-docs/",
   "scripts": {
     "build": "react-router build",
     "dev": "react-router dev",
